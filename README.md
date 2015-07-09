@@ -71,6 +71,6 @@ A list of most developer related podcasts from httpJunkie.com
 * [Unfinished Business](http://unfinished.bz/)
 
 ##Sunsetted Podcasts Worth Listening to
-* [http://www.goodstuff.fm/thegentlymad.com](The Gently Mad)
+* [The Gently Mad](http://www.goodstuff.fm/thegentlymad.com)
 * [The Freelance Web](http://www.thefreelanceweb.com/)
 * [Happy Monday](http://happymondaypodcast.com/)
