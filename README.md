@@ -39,34 +39,20 @@ A list of most developer related podcasts from httpJunkie.com
 * [Yet Another Podcast](http://jesseliberty.com/podcast/)
 * [Web Friends](http://webfriends.io/)
 * [The Big Web Show](http://5by5.tv/bigwebshow)
-* []()
-* []()
-* 
 
 ## Mobile & Native Podcasts
 [Debug](http://www.imore.com/debug/)
 
 ## Graphic Design & UX Podcasts
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-<strong><a href="http://www.freshtilledsoil.com/category/podcast/">The Dirt</a></strong>
-<strong><a href="http://pencilvspixel.com/">Pencil vs Pixel</a></strong>
-<strong><a href="http://howtoholdapencil.com/">How To Hold a Pencil</a></strong>
-<strong><a href="http://www.sitepoint.com/design-ux/">Design &amp; UX</a></strong>
-<strong><a href="http://www.muleradio.net/mistakes/">Let's Make Mistakes</a></strong>
-<strong><a href="http://unmatchedstyle.com/category/draft">Draft Podcast</a></strong>
-<strong><a href="http://onthegrid.co/">On The Grid</a></strong>
-<strong><a href="http://uxpod.com/">UX Podcast</a></strong>
-<strong><a href="http://www.uie.com/brainsparks/topics/podcasts/">User Interface Engineering</a></strong>
+* [The Dirt](http://www.freshtilledsoil.com/category/podcast/)
+* [Pencil vs Pixel](http://pencilvspixel.com/)
+* [How To Hold a Pencil](http://howtoholdapencil.com/)
+* [Design &amp; UX](http://www.sitepoint.com/design-ux/)
+* [Let's Make Mistakes](http://www.muleradio.net/mistakes/)
+* [Draft Podcast](http://unmatchedstyle.com/category/draft)
+* [On The Grid](http://onthegrid.co/)
+* [UX Podcast](http://uxpod.com/)
+* [User Interface Engineering](http://www.uie.com/brainsparks/topics/podcasts/)
 
 ## Software Podcasts
 
