@@ -20,7 +20,7 @@ A list of most developer related podcasts from httpJunkie.com
 * [Adventures in Angular](http://devchat.tv/adventures-in-angular/)
 * [Javascript Jabber](http://jsjabber.com/)
 * [Get Up and Code](http://getupandcode.com/)
-* [Telerik: Eat Sleep Code](https://soundcloud.com/esc-podcast)
+* [Telerik: Eat Sleep Code](http://developer.telerik.com/community/eat-sleep-code/)
 * [Away From the Keyboard](http://awayfromthekeyboard.com/)
 * [Angular Air](http://ng-air.github.io/)
 * [The Web Ahead](http://player.fm/series/the-web-ahead/)
